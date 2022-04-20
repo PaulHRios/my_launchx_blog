@@ -1,7 +1,8 @@
 ---
-title: "Mis expectativas"
+title: "La cultura de un desarrollador de software"
 date: 2022-02-21T18:16:21-06:00
-description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
+description: 'Para mi un verdadero desarrollador de software debe tener las caracteristicas a continuación:'
 ---
 
-Usa este post para anotar tus expectativas de la misión.
+Cualquier desarrollador debe ser autodidacta, debe aprender a buscar información en internet y sintetizar para poder aplicar el conocimiento en lo que requiera.
+Debe identificar errores rapidamente y saber como solucionarlos, o almenos saber en donde buscar para resolver ese problema.
